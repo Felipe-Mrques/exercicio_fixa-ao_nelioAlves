@@ -1,3 +1,6 @@
+//Exemplo de Estrutura switch-case
+
+
 import java.util.Scanner;
 
 public class Exercicio_Exemplo2_4 {
